@@ -1,5 +1,10 @@
 
 # 💬 ỨNG DỤNG NHẮN TIN BẢO MẬT (ALICE ↔ BOB)
+<div align="center">
+  <p align="center">
+    <img src="img/logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
+  </p>
+</div>
 
 Ứng dụng này mô phỏng hệ thống nhắn tin bảo mật giữa 2 người dùng (Alice và Bob), sử dụng **mã hóa RSA + AES**, **chữ ký số**, **hash SHA-256**, và giao diện người dùng hiện đại bằng `customtkinter`.
 
