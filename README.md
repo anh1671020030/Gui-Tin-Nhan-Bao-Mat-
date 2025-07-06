@@ -29,7 +29,7 @@
 ```
 📁 ASE/
 ├── client.py             # Giao diện người gửi (Alice)
-├── server.py             # Cấu hình host, port, thư mục khóa
+├── config.py             # Cấu hình host, port, thư mục khóa
 ├── crypto_utils.py       # Hàm hỗ trợ mã hóa/giải mã
 ├── keys/                 # Thư mục chứa khóa RSA
 │   ├── alice_private.pem
