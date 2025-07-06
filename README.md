@@ -82,6 +82,4 @@ python client.py
 - Đây là bản **demo học thuật** cho bài tập lớn hoặc đồ án liên quan đến **mật mã học**, **bảo mật mạng**, hoặc **ứng dụng client-server bảo mật**
 
 ---
-
-> 🚀 Tác giả: Sinh viên Đại học Duy Tân / Đại Nam  
-> ✨ Phù hợp cho đồ án "Ứng dụng truyền tin bảo mật sử dụng mã hóa lai RSA-AES"
+>  "Ứng dụng truyền tin bảo mật sử dụng mã hóa lai RSA-AES"
