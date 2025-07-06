@@ -54,6 +54,8 @@ pip install customtkinter pycryptodome pillow
 python client.py
 ```
 
+<img src="img/giao dien.png" alt="" width="700px" hight="700px"/>
+
 - Giao diện sẽ mở ra cửa sổ **Alice Chat**
 - Sau khi kết nối đến Bob, có thể:
   - Gửi tin nhắn văn bản
