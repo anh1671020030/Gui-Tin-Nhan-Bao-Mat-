@@ -27,9 +27,9 @@
 ## 🛠️ Kiến trúc thư mục
 
 ```
-📁 project/
+📁 ASE/
 ├── client.py             # Giao diện người gửi (Alice)
-├── config.py             # Cấu hình host, port, thư mục khóa
+├── server.py             # Cấu hình host, port, thư mục khóa
 ├── crypto_utils.py       # Hàm hỗ trợ mã hóa/giải mã
 ├── keys/                 # Thư mục chứa khóa RSA
 │   ├── alice_private.pem
